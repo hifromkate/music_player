@@ -13,6 +13,11 @@ const songs = [
   "The Newbeats - Bread and Butter",
   "The Police - Roxanne",
   "Arcade Fire - Wake Up",
+  "Lynyrd Skynyrd - Sweet Home Alabama",
+  "Go-A - Соловей",
+  "Del Shannon - Runaway",
+  "Nancy Sinatra - These Boots Are Made for Walking",
+  "La Femme - Si un jour",
 ];
 
 // Keep track of songs that
