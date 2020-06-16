@@ -14,7 +14,6 @@ const songs = [
   "The Newbeats - Bread and Butter",
   "The Police - Roxanne",
   "Arcade Fire - Wake Up",
-  "Go-A - Solovey",
   "Del Shannon - Runaway",
   "Nancy Sinatra - These Boots Are Made for Walking",
   "La Femme - Si un jour",
