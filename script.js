@@ -7,13 +7,13 @@ const audio = document.getElementById("audio");
 const progress = document.getElementById("progress");
 const progressContainer = document.getElementById("progress-container");
 const title = document.getElementById("title");
+
 // Song titles
 const songs = [
   "The Beach Boys - Kokomo",
   "The Newbeats - Bread and Butter",
   "The Police - Roxanne",
   "Arcade Fire - Wake Up",
-  "Lynyrd Skynyrd - Sweet Home Alabama",
   "Go-A - Соловей",
   "Del Shannon - Runaway",
   "Nancy Sinatra - These Boots Are Made for Walking",
